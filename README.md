@@ -5,11 +5,46 @@ PwnageTool is a jailbreaking tool created by the iPhone Dev Team. This is a mirr
 I verified SHA1 hashes match those posted on the iPhone Dev Team blog. I generated SHA256 hashes myself.
 
 
+### PwnageTool_2.0.2.tbz
+
+SHA1 c68fc1981679497d9d5b76135aaf06775b19d612
+
+SHA256 420c1361398f291eccb25eb6af0287f3f7c39c515a812c91d9668e6b27008931
+
+
+### PwnageTool_2.2.1.dmg
+
+SHA1 3a91f2bf4f342baaa700ae7d35959d7ade186134
+
+SHA256 ec99bbe1bc6cb5c6f16c20aa21fdc3fa7d30c60fe22bb813ab3b4dc1e30342dd
+
+
+### PwnageTool_2.2.5.dmg
+
+SHA1 8fe2f20c00f48b37d8262d6872a12166c6e165ba
+
+SHA256 cbf401a25be4ac279ae96e5b87df81828a2d0ea6873544ec1bf012d927393349
+
+
+### PwnageTool_3.1.dmg
+
+SHA1 ccc1e5db026362fc7eb9a40c76322b1fdcc90332
+
+SHA256 bfbe732d900ec9e13b0e584359f02865341090c2ea2a9c25d7bcfd40b5a1ba6d
+
+
 ### PwnageTool_3.1.3.dmg
 
 SHA1 4141b7ecd3928c3a0c954bb06c86225a56b2f3e7
 
 SHA256 c81b663a6dd022b680cb3637365d0a7f760ee157d4ed211240fe2669d9068545
+
+
+### PwnageTool_3.1.4.dmg
+
+SHA1 3f2c4a2758a667986a620d0e7c15526713656d4a
+
+SHA256 495e999804bcfc956711169dba758e574ac9ee7a5fddd1eac513643f03c574ea
 
 
 ### PwnageTool_3.1.5.dmg
@@ -66,6 +101,13 @@ SHA256 5f3e872c966ca55c7bbd1cad9d96d19c8330661fb61bb827add602a121e94aaa
 SHA1 fdf9d7cba7872451bbca1ccae95a82cfefb352e7
 
 SHA256 62fab4053b6e853722cd7f82f204e680fd9246ad41c356bbefb61da95a4c22fb
+
+
+### PwnageTool_4.3.3.dmg
+
+SHA1 fc2721a6c1230aa676729b2e4aeeec3cd4ffed7a
+
+SHA256 3f5b8b6653a555488fb835e96aee23200b56cc6ed3a93befd79a5eb6160ead6d
 
 
 ### PwnageTool_4.3.3.1.dmg
